@@ -4,15 +4,13 @@
 
 <p align="center">
   <p align="center">
-    <a href="">View project</a>
+    <a href="https://toshiuk.github.io/starfield-p5js-datgui/">View project</a>
   </p>
 </p>
 
 <p align="center">
   <img align="center" src="example.gif" />
 </p>
-
-
 
 <!-- ABOUT THE PROJECT -->
 
@@ -21,8 +19,6 @@
 Inspired by the Code Challenge of Code Train, I used the algorithm for processing language and converted it for javascript using the P5.js to sketch and Gui.dat library to control the variables.
 
 Reference video: https://www.youtube.com/watch?v=17WoOqgXsRM
-
-
 
 ### Libraries used
 
