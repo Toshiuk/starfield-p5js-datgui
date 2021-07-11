@@ -9,8 +9,8 @@ const settings = {
     backgroundColor: "#000000",
     steroidColor: "#ffffff",
     steroidDashColor: "#ffffff",
-    starsNumber: 100,
-    velocity: 10,
+    starsNumber: 300,
+    velocity: 20,
     zoom: 1,
     withSteroid: false
 }
